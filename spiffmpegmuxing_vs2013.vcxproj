@@ -13,6 +13,9 @@
   <ItemGroup>
     <ClCompile Include="spiffmpegmuxing_vs2013.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="spi.licenseheader" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{7526C87F-9278-47BC-A8A9-AD2656F3B811}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
